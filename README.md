@@ -14,10 +14,14 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
 
 ### Screenshot
 
+![image](https://github.com/Hexzenberg/Intro-component-with-sign-up-form/assets/98541526/4e391643-f2c7-48f7-a57b-db3bd8741a77)
+
+
+![image](https://github.com/Hexzenberg/Intro-component-with-sign-up-form/assets/98541526/e701b765-0a14-48b6-812b-eafeae774917)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Hexzenberg/Intro-component-with-sign-up-form
+- Live Site URL: https://hexzenberg.github.io/Intro-component-with-sign-up-form/
 
